@@ -17,7 +17,7 @@
  *
  * @var string
  */
-define('SECRET_ACCESS_TOKEN', 'M$vl7>$Fq?jhF}shg^-gp}q3.g;oY+o7Kd6]QI+D`z9NmuIlaibu{C15B.GG~5OQ');
+define('SECRET_ACCESS_TOKEN', 'jkiuhnm');
 
 /**
  * The address of the remote GIT repository that contains the code we're
