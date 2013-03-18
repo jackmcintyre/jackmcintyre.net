@@ -1,4 +1,4 @@
 jackmcintyre.net
 ================
 
-Personal Site
+A largely un-necessary Git repo for my personal site :)
